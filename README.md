@@ -1,5 +1,7 @@
 # Optical Micro-Particle Shield Array (OMPSA) for Spacecraft Protection in Orbital Environments
 
+![Artistic vision of OMPSA shielding spacecraft](./OMPSA-cover-photo.png)
+
 ## Abstract
 
 This article explores the theoretical foundations, design principles, feasibility, and practical considerations of an advanced spacecraft protection concept utilizing holographically trapped micro-particles arranged into a dynamically maintained spherical shell. This "Optical Micro-Particle Shield Array (OMPSA)" is designed to function in vacuum, zero-gravity orbital environments, leveraging abundant energy to provide protection from small debris impacts and partial mitigation of harmful electromagnetic radiation.

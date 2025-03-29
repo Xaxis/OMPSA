@@ -65,8 +65,8 @@ From a historical perspective, Arthur Ashkin’s early work laid out the bluepri
 
 Modern holographic trap systems replace or augment the single high-NA lens approach with **spatial light modulators** (SLMs), which modulate the phase (and sometimes amplitude) of the incident laser beam. By computing a holographic pattern—often using the Gerchberg–Saxton algorithm or improved variants—researchers can create complex three-dimensional intensity landscapes. This architecture allows one to:
 
-- **Generate Multiple Trap Sites**: Dozens, hundreds, or thousands of discrete maxima can be sculpted. Each maximum effectively serves as a localized trap for a single particle or a small particle cluster.  
-- **Reconfigure On-the-Fly**: By updating the phase map at high refresh rates (up to several kHz in cutting-edge systems), it becomes possible to shift existing traps, turn some off, and create new ones as needed.  
+- **Generate Trap Sites**: Millions of discrete maxima can be sculpted. Each maximum effectively serves as a localized trap for a single particle or a small particle cluster. 
+- **Reconfigure On-the-Fly**: By updating the phase map at high refresh rates (up to several kHz), it becomes possible to shift existing traps, turn some off, and create new ones as needed.
 - **Coordinate Multiple Beams**: Additional lasers or beam splitters can be integrated to cover more angles or to increase the number of simultaneously generated trap nodes.
 
 Applied to OMPSA, one might station these SLM-equipped lasers around the spacecraft hull or on dedicated booms, collectively projecting a spherical (or near-spherical) shell of trap points offset by a few meters from the craft’s outer surface. Any debris or micrometeoroids that pierce this shell experiences repeated collisions with the dense arrangement of trapped particles, effectively sapping its momentum. For radiation, the shell can scatter or partially absorb inbound EM waves. And in future expansions, advanced wave interference approaches might be integrated, shifting OMPSA from passive scattering toward active wave cancellation for narrow or selected frequency bands.

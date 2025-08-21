@@ -11,32 +11,6 @@ tags: ["OMPSA", "spacecraft shielding", "optical trapping", "microparticles", "b
 
 [Read **DETAIL.md**](./DETAIL.md) for an extended analysis of this proposed system.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Core Concept](#core-concept)
-  - [Holographic Optical Trapping](#holographic-optical-trapping)
-  - [Particle Choice](#particle-choice)
-- [Radiation Mitigation](#radiation-mitigation)
-  - [Scattering and Reflection](#scattering-and-reflection)
-  - [Resonance-Based Approaches](#resonance-based-approaches)
-  - [Constraints and Future Synergies](#constraints-and-future-synergies)
-- [Ballistic Protection](#ballistic-protection)
-  - [Fragmentation of Debris](#fragmentation-of-debris)
-  - [Cloud Maintenance](#cloud-maintenance)
-- [System Requirements and Control](#system-requirements-and-control)
-  - [Power Sources](#power-sources)
-  - [Real-Time Feedback](#real-time-feedback)
-- [Engineering Challenges](#engineering-challenges)
-  - [Thermal Load Management](#thermal-load-management)
-  - [Electrostatics](#electrostatics)
-  - [Computational Demands](#computational-demands)
-- [Potential Applications](#potential-applications)
-  - [LEO and GEO Stations](#leo-and-geo-stations)
-  - [Deep-Space Vessels](#deep-space-vessels)
-  - [Satellite Constellations](#satellite-constellations)
-- [Conclusion](#conclusion)
-- [References](#references)
-
 ---
 
 ## Introduction
